@@ -50,8 +50,11 @@ Movie comparison application based on awards, imdb ratings, boxoffice etc., </br
 
 ## Color Palette with OpenAI search engine
 <a href="https://github.com/agiwunderlich/ColorPaletteProject">Color Palette GitHub Page</a></br>
-*Under Development...* </br>
-I am developing a single-page application that utilizes a GPT search engine to generate color palettes based on a given prompt.
+
+Flask server-based single-page application that utilizes a GPT search engine to generate color palettes based on a given prompt.
+<img width="300" alt="movieapp" src="https://github.com/agiwunderlich/My_Projects/assets/35004717/9c4745da-bafd-43b3-8ae6-9b2a4452fa0e">
+
+
 
 ## E-Commerce App
 
