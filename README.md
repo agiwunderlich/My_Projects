@@ -7,9 +7,10 @@ Welcome to my portfolio of JavaScript and React projects and games! This page se
 ### Projects
 - [YelpCamp](#yelpcamp)
 - [Movie Comparison App](#movie-comparison-app)
+- [Color Palette w/ OpenAI search engine](#color-palette-with-openai-search-engine)
 - [E-Commerce App](#e-commerce-app)
 - [Ticket Bazaar](#ticket-bazaar)
-- [Create Color Palette App](#create-color-palette)
+- [Create Color Palette React App](#create-color-palette)
 - [Secret Message](#secret-message)
 - [Aurora Grove](#aurora-grove)
 
@@ -47,13 +48,16 @@ Movie comparison application based on awards, imdb ratings, boxoffice etc., </br
 <img width="300" alt="movieapp" src="https://user-images.githubusercontent.com/35004717/139526334-df6763b6-d23a-4532-a8c2-2f5254177016.png">
 
 
+## Color Palette with OpenAI search engine
+<a href="https://github.com/agiwunderlich/ColorPaletteProject">Color Palette GitHub Page</a></br>
+*Under Development...* </br>
+I am developing a single-page application that utilizes a GPT search engine to generate color palettes based on a given prompt.
 
 ## E-Commerce App
 
 <a href="https://github.com/agiwunderlich/E_Commerce_App">E-Commerce App GitHub Page</a></br>
-<img width="15" height="15" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
 
-*Under Development...*
+*Under Development...* </br>
 Fully-featured E-Commerce application from scratch - including production-grade authentication!
 
 
