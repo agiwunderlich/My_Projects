@@ -66,8 +66,11 @@ Fully-featured E-Commerce application from scratch - including production-grade 
 
 ## Rude Chatbot
 
-<a href="https://github.com/agiwunderlich/RudeChatbot">Rude Chatbot</a></br>
+<a href="https://github.com/agiwunderlich/RudeChatbot">Rude Chatbot Github Page</a></br>
+
 A simple command line chatbot powered by GPT-3.5-turbo, designed to have a rude and sarcastic personality.
+
+<img width="600" alt="rudechatbot" src="https://github.com/agiwunderlich/My_Projects/assets/35004717/0f32db14-a965-4b6d-9959-d954c95b543e">
 
 
 ## Ticket Bazaar
