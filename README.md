@@ -9,6 +9,7 @@ Welcome to my portfolio of JavaScript and React projects and games! This page se
 - [Movie Comparison App](#movie-comparison-app)
 - [Color Palette w/ OpenAI search engine](#color-palette-with-openai-search-engine)
 - [E-Commerce App](#e-commerce-app)
+- [Rude Chatbot](#rude-chatbot)
 - [Ticket Bazaar](#ticket-bazaar)
 - [Create Color Palette React App](#create-color-palette)
 - [Secret Message](#secret-message)
@@ -62,6 +63,11 @@ Flask server-based single-page application that utilizes a GPT search engine to 
 
 *Under Development...* </br>
 Fully-featured E-Commerce application from scratch - including production-grade authentication!
+
+## Rude Chatbot
+
+<a href="https://github.com/agiwunderlich/RudeChatbot">Rude Chatbot</a></br>
+A simple command line chatbot powered by GPT-3.5-turbo, designed to have a rude and sarcastic personality.
 
 
 ## Ticket Bazaar
