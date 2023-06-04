@@ -10,6 +10,7 @@ Welcome to my portfolio of JavaScript and React projects and games! This page se
 - [Color Palette w/ OpenAI search engine](#color-palette-with-openai-search-engine)
 - [E-Commerce App](#e-commerce-app)
 - [Rude Chatbot](#rude-chatbot)
+- [Spotify_Playlist](#spotify-playlist)
 - [Ticket Bazaar](#ticket-bazaar)
 - [Create Color Palette React App](#create-color-palette)
 - [Secret Message](#secret-message)
@@ -71,6 +72,15 @@ Fully-featured E-Commerce application from scratch - including production-grade 
 A simple command line chatbot powered by GPT-3.5-turbo, designed to have a rude and sarcastic personality.
 
 <img width="600" alt="rudechatbot" src="https://github.com/agiwunderlich/My_Projects/assets/35004717/0f32db14-a965-4b6d-9959-d954c95b543e">
+
+## Spotify Playlist
+
+<a href="https://github.com/agiwunderlich/Spotify_Playlist">Spotify Playlist GitHub Page</a></br>
+
+This is a simple command-line utility that generates a playlist of songs based on a given prompt. 
+It uses the OpenAI GPT-3.5 model and the Spotify API to create and add tracks to a playlist.
+
+<img width="500" alt="rudechatbot" src="https://github.com/agiwunderlich/My_Projects/assets/35004717/111652d8-231c-46b5-a815-62c44b5febb9">
 
 
 ## Ticket Bazaar
