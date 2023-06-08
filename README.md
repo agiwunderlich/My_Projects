@@ -105,7 +105,6 @@ Saturation level can be changed, a selected emoji can be used to save the finish
 ## Secret Message
 
 <a href="https://github.com/agiwunderlich/Secret_Message_App">Secret Message App GitHub Page</a></br>
-<img width="15" height="15" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
 
 This application allows you to send an encrypted message to another user using Base64 Encoding.
 
