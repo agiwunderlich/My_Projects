@@ -62,8 +62,9 @@ Flask server-based single-page application that utilizes a GPT search engine to 
 
 <a href="https://github.com/agiwunderlich/E_Commerce_App">E-Commerce App GitHub Page</a></br>
 
-*Under Development...* </br>
 Fully-featured E-Commerce application from scratch - including production-grade authentication!
+
+<img width="300" alt="movieapp" src="https://github.com/agiwunderlich/E_Commerce_App/assets/35004717/393acd9a-8606-4033-90c0-56dc5eec4acd">
 
 ## Rude Chatbot
 
